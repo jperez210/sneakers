@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sneakers/static/css/main.46f6a53c.chunk.css",
-    "main.js": "/sneakers/static/js/main.12bb8ead.chunk.js",
-    "main.js.map": "/sneakers/static/js/main.12bb8ead.chunk.js.map",
+    "main.js": "/sneakers/static/js/main.a18f2fc8.chunk.js",
+    "main.js.map": "/sneakers/static/js/main.a18f2fc8.chunk.js.map",
     "runtime-main.js": "/sneakers/static/js/runtime-main.da45dab3.js",
     "runtime-main.js.map": "/sneakers/static/js/runtime-main.da45dab3.js.map",
     "static/css/2.af3c1da9.chunk.css": "/sneakers/static/css/2.af3c1da9.chunk.css",
     "static/js/2.15d0398d.chunk.js": "/sneakers/static/js/2.15d0398d.chunk.js",
     "static/js/2.15d0398d.chunk.js.map": "/sneakers/static/js/2.15d0398d.chunk.js.map",
     "index.html": "/sneakers/index.html",
-    "precache-manifest.524b61a1654b56d4f6f0ab7812cae305.js": "/sneakers/precache-manifest.524b61a1654b56d4f6f0ab7812cae305.js",
+    "precache-manifest.47ef8eeb2371f739669d4c1d91c98e4c.js": "/sneakers/precache-manifest.47ef8eeb2371f739669d4c1d91c98e4c.js",
     "service-worker.js": "/sneakers/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/sneakers/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.46f6a53c.chunk.css.map": "/sneakers/static/css/main.46f6a53c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.15d0398d.chunk.js",
     "static/css/main.46f6a53c.chunk.css",
-    "static/js/main.12bb8ead.chunk.js"
+    "static/js/main.a18f2fc8.chunk.js"
   ]
 }
