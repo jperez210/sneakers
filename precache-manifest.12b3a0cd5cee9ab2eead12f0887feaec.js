@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ccab4e13386f88f37a4b8b104acb420",
+    "revision": "2c8b05bf773b573894fe98153c4859c5",
     "url": "/sneakers/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sneakers/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "760cf7c48739aaf53e37",
+    "revision": "1223cbb708bb13eb1062",
     "url": "/sneakers/static/css/main.46f6a53c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sneakers/static/js/2.15d0398d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "760cf7c48739aaf53e37",
-    "url": "/sneakers/static/js/main.f0984997.chunk.js"
+    "revision": "1223cbb708bb13eb1062",
+    "url": "/sneakers/static/js/main.13e18672.chunk.js"
   },
   {
     "revision": "5fe612d6832e4cf1222d",
