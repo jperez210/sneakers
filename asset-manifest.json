@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sneakers/static/css/main.e75cc3d4.chunk.css",
+    "main.css": "/sneakers/static/css/main.4a4c3baa.chunk.css",
     "main.js": "/sneakers/static/js/main.8e65443b.chunk.js",
     "main.js.map": "/sneakers/static/js/main.8e65443b.chunk.js.map",
     "runtime-main.js": "/sneakers/static/js/runtime-main.da45dab3.js",
@@ -9,17 +9,17 @@
     "static/js/2.15d0398d.chunk.js": "/sneakers/static/js/2.15d0398d.chunk.js",
     "static/js/2.15d0398d.chunk.js.map": "/sneakers/static/js/2.15d0398d.chunk.js.map",
     "index.html": "/sneakers/index.html",
-    "precache-manifest.002761c3c5369c10c55f588f6956e99d.js": "/sneakers/precache-manifest.002761c3c5369c10c55f588f6956e99d.js",
+    "precache-manifest.229301ff290c3c4f8bd160167ada367b.js": "/sneakers/precache-manifest.229301ff290c3c4f8bd160167ada367b.js",
     "service-worker.js": "/sneakers/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/sneakers/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.e75cc3d4.chunk.css.map": "/sneakers/static/css/main.e75cc3d4.chunk.css.map",
+    "static/css/main.4a4c3baa.chunk.css.map": "/sneakers/static/css/main.4a4c3baa.chunk.css.map",
     "static/js/2.15d0398d.chunk.js.LICENSE.txt": "/sneakers/static/js/2.15d0398d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.da45dab3.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.15d0398d.chunk.js",
-    "static/css/main.e75cc3d4.chunk.css",
+    "static/css/main.4a4c3baa.chunk.css",
     "static/js/main.8e65443b.chunk.js"
   ]
 }
